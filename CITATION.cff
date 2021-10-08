@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "PFH Private University of Applied Sciences, Göttingen"
+    family-names: Kulkarni
+    given-names: Varad
+cff-version: "1.1.0"
+date-released: 19.10.2021
+keywords: 
+  - "Composites, Automated Fibre Placement, Thermoplastics"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/Varad28/Optical-Model-Simulation-for-TP-AFP-Setup.git"
+title: "Establishing a 2-D Mathematical-Optical Model for a Laser-Assisted Thermoplastic-Automated Fibre Placement Setup"
+...
